@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Lobotomy Corporation',
+    'Você conhece <br> Lobotomy Corporation?',
+    'Lobotomy Corporation é um videogame de simulação de gerenciamento de estratégia rogue-lite de terror indie de 2018.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Library of Ruina',
+    'O que é <br> Library of ruina?',
+    'Library of Ruina é um RPG independente baseado em turnos de construção de deck lançado em 2021.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Limbus Company',
+    'Oque é <br> Limbus Company',
+    'Limbus Company é um videogame RPG de estratégia lançado mundialmente em 26 de fevereiro de 2023.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Project Moon',
+    'Quem é <br> Project Moon?',
+    'O Project Moon é um estúdio independente de desenvolvimento de videogames sul-coreano localizado em Suwon, na Coreia do Sul, e fundado e liderado por Kim Ji-hoon. Foi fundada em 18 de novembro de 2016'
 )
